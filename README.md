@@ -1,3 +1,6 @@
 # ABOUT ME
-- My name is `Deepak K Nayak`. I am a part-time student, part-time coder, and full-time jolly creature.
-- I identify as an Indian, first and foremost and `don't care` about what other think.
+- **Species:** `Deepak K Nayak`
+- **Genus:** `Engineer`
+- **Ambitions:** `Non-existent`
+- **Ususally found in moderate to cold climates `lazing` around**
+- **Identification:** `Possession of an electronic device at all times`
